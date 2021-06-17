@@ -1,0 +1,83 @@
+.nav11{
+    background-color: #062c33;
+}
+
+.fa-bars{
+    color: white;
+    font-size: 30px; !important;
+}
+
+#navi{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 230px;
+    color: white;
+}
+
+.bobo{
+    height: 470px;
+    width: 100%;
+    background-image: url("../image/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.header{
+    margin-top: 130px;
+}
+
+.search_course{
+    padding: 25px 0px;
+    margin: -50px 6% 50px;
+    background-color: #a71d2a;
+    position: relative;
+    box-shadow: 0px 0px 10px 7px rgba(0,0,0,0.4);
+}
+
+.search_course .form-control{
+    max-width: 350px;
+    display: inline-flex;
+    margin: 10px 5px;
+    border-radius: 0px;
+}
+
+.search_course .btn-primary{
+    margin-top: -5px;
+}
+
+.hr11{
+    height: 4px;
+    width: 100%;
+    background-color: black;
+}
+
+.memo{
+    border: 20px solid black;
+    border-image: linear-gradient(to right,red,yellow) 20;
+
+}
+
+#footer{
+   height: auto;
+    width: 100%;
+    background-color: black;
+}
+
+.thankss{
+    padding: 25px 0px;
+    margin: 35px 6% -65px;
+    background-color: #1da72e;
+    position: relative;
+    box-shadow: 0px 0px 10px 7px rgba(0,0,0,0.4);
+}
+
+.foot_margin{
+    margin-top: 100px;
+}
+
+.addrs{
+    margin-left: 200px;
+}
+
